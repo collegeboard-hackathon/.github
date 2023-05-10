@@ -10,11 +10,14 @@
    >
    > If not, add an email address under `Add email address` and `Add`, choose your CB email under `Primary email address` and `Save`.
 4. Enable two-factor authentication (2FA)
+* In the upper-right corner of any page, click your profile photo, then click `Settings`.
+* In the Access section of the sidebar, click `Password and authentication`.
+* In the Two-factor authentication section of the page, click `Enable two-factor authentication`.
 * Use Microsoft Authenticator `Scan QR code` function to scan QR code.
 * Enter the GitHub code in `Verify the code from the app`
 * Download the recovery codes and keep in safe place.
-* Choose `I have saved my recovery codes`
-* Configure additional 2FA methods.  Choose Alternative 2FA option SMS authentication at the bottom of the page.
+* Choose `I have saved my recovery codes`.
+* Configure additional 2FA methods. Choose Alternative 2FA option SMS authentication at the bottom of the page.
 * Enter the code you receive on your phone.
 
    > Note: 
