@@ -1,4 +1,4 @@
-# How to Access Hackathon GitHub
+## How to Access Hackathon GitHub
 1. Receive email invitation from your GitHub Administrator
 2. Click the green `Join` button
 3. Sign in if you already have an account in GitHub or follow prompt and Create account.
