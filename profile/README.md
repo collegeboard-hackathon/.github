@@ -1,4 +1,4 @@
-# How to Access College Board GitHub
+# How to Access Hackathon GitHub
 1. Receive email invitation from your GitHub Administrator
 2. Click the green `Join` button
 3. Sign in if you already have an account in GitHub or follow prompt and Create account.
@@ -23,6 +23,3 @@
    > GitHub account settings -> Password and authentication -> SMS/Text message
    >
    > Enable and Preferred.  To add/update phone number, choose the `...` and Edit
-
-# Creating a Personal Access Token
-[Guide](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
