@@ -1,4 +1,4 @@
-## 2023 Hackathon Dates 
+## Hackathon Dates 
 Wednesday May 24th to Friday May 26th
 > Hacking on May 24th and May 25th
 > 
