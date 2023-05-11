@@ -1,3 +1,14 @@
+## 2023 Hackathon Dates 
+Wednesday May 24th to Friday May 26th
+   > Hacking on May 24th and May 25th
+   > 
+   > Demos on Friday May 26th
+* [Escape Velocity General Info Page](https://confluence.collegeboard.org/display/CBINS/Escape+Velocity+General+Info+Page)
+* [Escape Velocity Technical Guidance](https://confluence.collegeboard.org/display/CBINS/Escape+Velocity+Technical+Guidance)
+* [Escape Velocity Presentation Guidelines](https://confluence.collegeboard.org/display/CBINS/Escape+Velocity+Presentation+Guidelines)
+* [Escape Velocity Team Working Area](https://confluence.collegeboard.org/display/CBINS/Escape+Velocity+Team+Working+Area)
+* [Escape Velocity Logistics](https://confluence.collegeboard.org/display/CBINS/Escape+Velocity+Logistics)
+
 ## How to Access Hackathon GitHub
 1. Receive email invitation from your GitHub Administrator
 2. Click the green `Join` button
