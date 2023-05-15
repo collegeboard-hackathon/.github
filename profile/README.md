@@ -5,17 +5,18 @@ Wednesday May 24th to Friday May 26th
 > Demos on Friday May 26th
 
 ## How to Access Hackathon GitHub
-1. Receive email invitation from your GitHub Administrator
-2. Click the green `Join` button
-3. Sign in if you already have an account in GitHub or follow prompt and Create account.
+1. Receive email invitation from your GitHub Administrator.
+2. Click the green `Join` button in your invitation.
+3. Sign in if you already have an account in GitHub or follow prompt and create account.
 
    > Note: 
    > CB email need to be the primary email address in your GitHub profile.  To check:
    >
-   > GitHub avatar -> Settings -> click on `Email Settings` under Public.
+   > GitHub avatar -> Settings -> click the `Email Settings` under Public.
    >
    > If not, add an email address under `Add email address` and `Add`, choose your CB email under `Primary email address` and `Save`.
-4. Enable two-factor authentication (2FA)
+4. Click the `Authenticate to join` button.
+5. Enable two-factor authentication (2FA)
 * In the upper-right corner of any page, click your profile photo, then click `Settings`.
 * In the Access section of the sidebar, click `Password and authentication`.
 * In the Two-factor authentication section of the page, click `Enable two-factor authentication`.
