@@ -16,6 +16,6 @@ Wednesday May 24th to Friday May 26th
 
 <img src="images/invite-to-org.png" alt= “” width="40%" height="40%">
 
-6. Follow the instructions to join Hackathon organization.
+6. Click `Authenticate to join`, and follow the instructions to join Hackathon organization.
 
 <img src="images/join-org.png" alt= “” width="25%" height="25%">
