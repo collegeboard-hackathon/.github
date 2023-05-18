@@ -14,7 +14,7 @@ Wednesday May 24th to Friday May 26th
 4. Enable two-factor authentication (2FA). For more information, see [Configuring two factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 5. Open the email invitation, and click the green `Join` button.
 
-<img src="images/invite-to-org" alt= “” width="30%" height="30%">
+<img src="images/invite-to-org.png" alt= “” width="30%" height="30%">
 
 6. Follow the instructions to join Hackathon GitHub organization.
 
